@@ -1,0 +1,12 @@
+# Max Anderson - RDSI Capstone 3
+ 
+## Proposals
+ 
+### *Besides the first proposal, I do not feel very strongly about any of these. I'm very open to discussing them and fleshing any and all of them out more.*:slightly_smiling_face:
+ 
+1. **Image Texture Classification and Generation:** I would really like to refine and extend my capstone 2 project: classifying image textures used for 3D modeling. After my classifier failed to make predictions with much accuracy, I've rethought my approach. I would like to use an open source data set with better thought out labels, more labeled images, and perform training on a transfer learning algorithm. I also plan on basing my labels off of a more conventional standard based on some conversations with various game devs. After classification is complete, I would like to build some sort of simple generator that would attempt to make new, unique image textures for use.
+   - [Open source textures](https://opengameart.org/)
+   - [Labels basis](https://www.textures-resource.com/) 
+2. **Collage Image Classification:** I work for an artist who is heavily based in collage. He apparently has a lot of images of cut outs from magazines, etc. scanned in. I have no idea how they're organized but, since I have to access them at some point, I would like to build a model that could classify images based on their subject matter and use. For example, classifying something as an animal, and knowing it belongs with other images that often occupy the same areas of the collages. I don't have eyes on the data right now, but I'm meeting with the artist and his staff this week and can bring it up then.
+3. **Sample Generator:** My last proposal is to build a model for audio processing based on the *Spectrasonics Distorted Reality* sample pack that I already own. This sample pack was used widely in horror games and movies in the late 90's and early 2000s and has seen something of a rediscovery lately. I would like to attempt to build a generator that would create new samples in the style of the *Distorted Reality* pack that would be more accessible to sound designers and musicians as the original pack is somewhat hard to find and expensive.
+   - [Distorted Reality](https://www.spectrasonics.net/products/legacy/distortedreality1.phps)
